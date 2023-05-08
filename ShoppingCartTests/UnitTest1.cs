@@ -12,7 +12,7 @@ public class Tests
         testCart = new ShoppingCart("FirstTests");
         testCart.AddItem("apple", 2, 1.10m);
         testCart.AddItem("pear", 1, 2.20m);
-        testCart.AddItem("pineapple", 1, 3.50m);
+        //testCart.AddItem("pineapple", 1, 3.50m);
     }
 
     [Test]
